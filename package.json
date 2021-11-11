@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "apex": "^0.1.2",
     "typescript": "^4.4.4",
     "yarn": "^1.22.17"
   }
